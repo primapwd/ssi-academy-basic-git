@@ -9,7 +9,7 @@ This is repository for learning basic of git with SSI Academy Team
 * Example: `feature/add-license-to-this-repository`
 5. After the fix, commit it with the format `Fix #issue-number commit message`
 * Example: `Fix #1 license added`
-6. Now create a PR (Pull Request) to main branch on this repository.
+6. Now create a PR (Pull Request) to main branch on this repository. See this [guide](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) how to linking PR to an issue.
 7. Make some noodles until your PR reviewed and merged. :handshake:
 
 ## Next Step?
