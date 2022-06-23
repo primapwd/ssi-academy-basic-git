@@ -31,6 +31,14 @@ const quizData = [
         d: "none of the above",
         correct: "b",
     },
+    {
+        question: "Which one is not a javascript framework?",
+        a: "React",
+        b: "Angular",
+        c: "Laravel",
+        d: "Vue",
+        correct: "c",
+    },
 ];
 
 const quiz = document.getElementById('quiz')
