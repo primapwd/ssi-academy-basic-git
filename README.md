@@ -24,6 +24,8 @@ This is repository for learning basic of git with SSI Academy Team
   <tr>
 	<td align="center"><a href="https://loremfaces.com"><img src="https://faces-img.xcdn.link/image-lorem-face-964.jpg?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Bred The Destroyer</b></sub></a><br /><a href="#destroying-code" title="Destroying Code">💬</a> 
 	  </td>
+    <td align="center"><a href="https://placekitten.com/"><img src="https://placekitten.com/g/200/300" width="100px;" alt=""/><br /><sub><b>Omega Surplus</b></sub></a><br /><a href="#destroying-code" title="Destroying Code">💬</a> 
+	  </td>
   </tr>
 </table>
 <!-- markdownlint-restore -->
