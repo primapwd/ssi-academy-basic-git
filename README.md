@@ -30,6 +30,8 @@ This is repository for learning basic of git with SSI Academy Team
 	  </td>
     <td align="center"><a href="https://placekitten.com/"><img src="https://placekitten.com/g/200/300" width="100px;" alt=""/><br /><sub><b>Omega Surplus</b></sub></a><br /><a href="#destroying-code" title="Destroying Code">💬</a> 
 	  </td>
+    <td align="center"><a href="https://loremfaces.com"><img src="https://faces-img.xcdn.link/image-lorem-face-123.jpg?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Akbar Wibowo Putra</b></sub></a><br /><a href="https://github.com/Akbarwp" title="Jangan lupa titik koma;">💬</a> 
+	  </td>
   </tr>
   <tr>
 	<td align="center"><a href="https://loremfaces.com"><img src="https://faces-img.xcdn.link/thumb-lorem-face-2625_thumb.jpg?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Edo Yonatan K</b></sub></a><br /><a href="#student" title="Edo Yonatan K.">💬</a> 
