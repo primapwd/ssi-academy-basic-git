@@ -23,7 +23,7 @@ This is repository for learning basic of git with SSI Academy Team
 <table>
   <tr>
 	<td align="center"><a href="https://loremfaces.com"><img src="https://faces-img.xcdn.link/image-lorem-face-964.jpg?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Bred The Destroyer</b></sub></a><br /><a href="#destroying-code" title="Destroying Code">💬</a> 
-	  </td>	
+	</td>
     <td align="center"><a href="https://loremfaces.com"><img src="https://faces-img.xcdn.link/image-lorem-face-444.jpg?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Kristin Lebda</b></sub></a><br /><a href="#destroying-code" title="Destroying Code">💬</a> 
 	  </td>
     <td align="center"><a href="https://loremfaces.com"><img src="https://faces-img.xcdn.link/image-lorem-face-135.jpg" width="100px;" alt=""/><br /><sub><b>Adelion</b></sub></a><br /><a href="https://www.linkedin.com/in/amiroh-adillia/" title="Destroying Code">💬</a>
@@ -33,6 +33,11 @@ This is repository for learning basic of git with SSI Academy Team
     <td align="center"><a href="https://loremfaces.com"><img src="https://faces-img.xcdn.link/image-lorem-face-444.jpg?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Kristin Lebda</b></sub></a><br /><a href="https://github.com/Akbarwp" title="Jangan lupa titik koma;">💬</a> 
 	  </td>
   </tr>
+  <tr>
+	<td align="center"><a href="https://loremfaces.com"><img src="https://faces-img.xcdn.link/thumb-lorem-face-2625_thumb.jpg?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Edo Yonatan K</b></sub></a><br /><a href="#student" title="Edo Yonatan K.">💬</a> 
+	  </td>	
+  </tr>
+  
 </table>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
